@@ -1,0 +1,46 @@
+# Archivos generados por el sistema
+Thumbs.db
+.DS_Store
+
+# Carpetas y archivos específicos a ignorar
+/node_modules
+/dist
+/build
+/vendor
+
+# Archivos de configuración
+.env
+.env.local
+.env.*.local
+
+# Archivos de registro
+*.log
+
+# Archivos de respaldo
+*~
+
+# Archivos de caché
+.cache
+
+# Archivos de intercambio de código
+*.swp
+
+# Archivos de dependencias de desarrollo (por ejemplo, Composer y NPM)
+composer.lock
+yarn.lock
+
+# Carpetas y archivos de IDE
+.idea/
+.vscode/
+*.sublime-*
+
+# Archivos compilados y minificados
+*.min.js
+*.min.css
+*.phpc
+
+# Caché de navegadores
+*.htmlc
+
+# Archivos de sesión de PHP
+session.save_path/
