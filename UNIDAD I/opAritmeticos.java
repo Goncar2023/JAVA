@@ -16,6 +16,7 @@ public static void main(String[] args) {
         /: División.
         %: Módulo (resto de la división).
     */
+
     //Declaración de variables que almacenarán los resultados
     int suma, resta, multiplicacion, division, resto;
     //Declaración y asignación
@@ -23,7 +24,7 @@ public static void main(String[] args) {
     int b = 10;
 
     suma = a + b;
-    resta = a +b;
+    resta = a - b;
     multiplicacion = a * b;
     division = a / b;
     resto = a % b;
@@ -38,5 +39,5 @@ public static void main(String[] args) {
     System.out.println("DIVISIÓN de A / B = "+division);
     System.out.println("Módulo de A % B = "+resto);
     System.out.println("");
-}
 
+}
