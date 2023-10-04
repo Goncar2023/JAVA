@@ -3,7 +3,7 @@ public static void main(String[] args) {
     Scanner scn = new Scanner(System.in);
     float numero1, numero2;
     float resultado;
-        
+
     int contador = 1;
     while(contador > 0 && contador < 5){
 

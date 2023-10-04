@@ -28,7 +28,6 @@ public static void main(String[] args) {
         }else{
             System.out.println(ANSI_RED+"Credenciales incorrectas");
         }
-        
     }else{
         System.out.println(ANSI_YELLOW+"No se ingresaron credenciales");
     }
